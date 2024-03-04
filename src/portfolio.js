@@ -33,7 +33,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/Shishira-work",
+  // github: "https://github.com/Shishira-work",
   linkedin: "https://www.linkedin.com/in/shishira-yedlapalli-44300420b/",
   gmail: "yedlapallishishira@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
